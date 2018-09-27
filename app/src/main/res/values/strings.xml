@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrisaTVTest</string>
+    <string name="cast_performance_warning">Casting this video requires conversion. This conversion can use all the available power and could quickly drain your battery.</string>
+    <string name="info">Informação</string>
+    <string name="error_not_compatible">Desculpe! O seu dispositivo não oferece suporte! :(™.</string>
+    <string name="error_message_is">The error message is (please mention this when debugging):\n</string>
+    <string name="error_problem">Desculpa. Houve um erro de carregamento e precisamos fechar o APP.</string>
+    <string name="chroma_format_default" translatable="false">RV16</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
